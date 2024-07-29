@@ -1,0 +1,205 @@
+
+    .navbar{
+        margin: 0px;
+       
+        background-color: #95D2B3; 
+        
+    }
+    .row{
+        width: 100% !important;
+    }
+ ul li a {
+  text-decoration: none;
+  font-size: 18px;
+  color: #D8EFD3;
+}
+ul li a:hover {
+  color: #000;
+  transition: 0.5s ease;
+  
+}
+ul {
+  margin: 0;
+  list-style-type: none;
+  padding: 5px;
+  text-align: right;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+ul li {
+  display: inline;
+  margin-left: 100px;
+}
+.hero{
+    width: 4rem;
+  height: 4rem;
+  border-radius: 2rem;
+  }
+  .first-cloud{
+    position: relative;
+    left: 70%;
+    top: 30px;
+    display: inline;
+  }
+  .body{
+    padding: 30px;
+    background-color: #95D2B3; 
+    height: auto;
+  }
+  .bottom-cloud{
+    position: relative;
+    left: 30%;
+   bottom: 60px;
+   opacity: 0.6;
+  }
+  .mountain{
+    position: relative;
+    left: 20%;
+  }
+  .intro1{
+    margin-top: 0; 
+    font-family: 'Grape Nuts', cursive;
+    font-size: 5.625em;
+    color: #D8EFD3;
+    text-align: center;
+  }
+  .intro2{
+    font-family: 'Roboto', sans-serif;
+  color: #D8EFD3;
+  font-size: 2em;
+  text-align: center;
+  }
+  h1{
+    margin-top: 0; 
+    font-family: 'Grape Nuts', cursive;
+    font-size: 5.625em;
+    color: #95D2B3;
+    text-align: center;
+}
+.web{
+    text-decoration: underline;
+}
+
+H3,h2{
+  font-family: 'Roboto', sans-serif;
+  color: #95D2B3;
+  font-size: 2em;
+  text-align: center;
+}
+hr{
+border-style: none;
+  border-bottom-style: dotted;
+  border-width: 10px;
+  width: 10%;
+
+color: #95D2B3;
+justify-items: center;
+margin-left: auto;
+margin-right: auto;
+
+}
+.shaq{
+  align-self: center;
+  height: 168.625px;
+  width: 168.625px;
+  border-radius: 84.3px;
+padding: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+
+}
+.chilli-img{
+  width:25% ; 
+  float: left;
+  margin-right: 40px;
+}
+.pc-img{
+ width:25% ; 
+ float: right;
+ margin-left: 40px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.second-container h2 h3{
+    text-align: center;
+}
+.skill-row,h3,p{
+    padding-left: 30px;
+    text-align: left;
+}
+.skill-row p{
+text-align: start;
+}
+.hire{
+    text-align: center;
+}
+button a {
+  text-decoration: none;
+  color: #95D2B3 !important;
+  padding: 12px 33px 12px 18px !important;
+  font-size: large !important;
+ 
+}
+#button{
+  border: transparent;
+  background-color: #55AD9B;
+  border-radius: 5px;
+  padding: 12px 33px 12px 18px !important;
+  margin-top: 50px;
+  margin-left: 42%;
+  margin-right: 42%;
+  margin-bottom: 50px;
+
+
+}
+#footer {
+  background-color: #55AD9B;
+
+  height: auto;
+  padding: 45px 0 45px 0;
+
+  clear: both;
+  color: white;
+  text-align: center;
+  padding: 3em 0;
+  font-size: 90%;
+}
+#footer.row {
+  margin: 10px;
+  list-style-type: none;
+  border-radius: 5px;
+  padding: 5px;
+  text-align:center ;
+  width: 100%;
+  display: inline;
+  
+}
+.col-md-4 li {
+  display: inline;
+  
+}
+.col-md-4  a {
+  text-decoration: none;
+  padding: 0 50px 0 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #95D2B3;
+  font-size: 1.3em;
+ 
+}
+
+
+.col-md-4 li a:hover {
+  color: #000;
+  transition: 0.5s ease;
+}
+#footer,p{
+  text-align: center;
+  padding-top: 50px;
+}
